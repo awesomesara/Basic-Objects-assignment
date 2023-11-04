@@ -1,10 +1,10 @@
-Personal Account Management
+## Personal Account Management
 
-Overview
+## Overview
 
 This Java project provides a class called PersonalAccount for personal bank account management. It allows users to create and manage their accounts by performing operations such as depositing, withdrawing, checking balances, and viewing transaction history.
 
-Contents
+## Contents
 
 Project Structure
 Class Structure
@@ -15,7 +15,7 @@ Contributors
 License
 Project Structure
 
-The project consists of two main Java classes:
+## The project consists of two main Java classes:
 
 PersonalAccount: Represents a personal bank account, with methods for depositing, withdrawing, checking balances, and viewing transaction history.
 Amount: Represents a transaction amount, with an amount value and a transaction type.
@@ -37,7 +37,7 @@ void printTransactionHistory(): Prints the transaction history (all transactions
 double getBalance(): Retrieves the current balance of the account.
 int getAccountNumber(): Retrieves the account number.
 String getAccountHolder(): Retrieves the account holder's name.
-Amount
+## Amount
 The Amount class represents a transaction amount and includes:
 
 amount (double): The transaction amount.
